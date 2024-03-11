@@ -1,0 +1,10 @@
+div {
+  margin-top: 10px;
+}
+
+input {
+  width: 200px;
+  height: 40px;
+  outline: none;
+  border-radius: 10px;
+}
